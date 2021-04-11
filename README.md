@@ -3,7 +3,7 @@ A realtime tracker of Lego's price per pound using eBay listings. A mean
 selling price is calculated every 2.5 seconds by averaging 100 listings
 of bulk Lego for sale. This value is visualized in a live graph.
 
-Built in Python using the ebaysdk, tkinter, and matplotlib.
+Built in Python using the ebaysdk, tkinter, matplotlib, and pandas modules.
 
 # Using the Price Tracker
 ## Setting Up the Repository
